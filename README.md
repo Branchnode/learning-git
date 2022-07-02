@@ -4,4 +4,4 @@
 
 https://branchnode.com
 
-![1}(https://branchnode.com/assets/images/logo.png)
+![1](https://branchnode.com/assets/images/logo.png)
